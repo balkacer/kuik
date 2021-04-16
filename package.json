@@ -2,14 +2,19 @@
   "name": "kuik",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makuttico/kuik.git"
   },
   "keywords": [
     "stadistics",
     "kuik"
   ],
-  "author": "makuttico",
-  "license": "ISC"
+  "author": "Makuttiko <makuttico@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/makuttico/kuik"
 }
